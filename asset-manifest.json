@@ -1,0 +1,31 @@
+{
+  "files": {
+    "main.css": "/ReactWebsite/static/css/main.2ccf97d2.chunk.css",
+    "main.js": "/ReactWebsite/static/js/main.8605c8b8.chunk.js",
+    "main.js.map": "/ReactWebsite/static/js/main.8605c8b8.chunk.js.map",
+    "runtime-main.js": "/ReactWebsite/static/js/runtime-main.a3b31612.js",
+    "runtime-main.js.map": "/ReactWebsite/static/js/runtime-main.a3b31612.js.map",
+    "static/css/2.f2512455.chunk.css": "/ReactWebsite/static/css/2.f2512455.chunk.css",
+    "static/js/2.706b3a73.chunk.js": "/ReactWebsite/static/js/2.706b3a73.chunk.js",
+    "static/js/2.706b3a73.chunk.js.map": "/ReactWebsite/static/js/2.706b3a73.chunk.js.map",
+    "index.html": "/ReactWebsite/index.html",
+    "static/css/2.f2512455.chunk.css.map": "/ReactWebsite/static/css/2.f2512455.chunk.css.map",
+    "static/css/main.2ccf97d2.chunk.css.map": "/ReactWebsite/static/css/main.2ccf97d2.chunk.css.map",
+    "static/js/2.706b3a73.chunk.js.LICENSE.txt": "/ReactWebsite/static/js/2.706b3a73.chunk.js.LICENSE.txt",
+    "static/media/About us page.27d04e1b.gif": "/ReactWebsite/static/media/About us page.27d04e1b.gif",
+    "static/media/Learning.c60dd739.gif": "/ReactWebsite/static/media/Learning.c60dd739.gif",
+    "static/media/download.5600c411.jpg": "/ReactWebsite/static/media/download.5600c411.jpg",
+    "static/media/history.ab2bb466.jpg": "/ReactWebsite/static/media/history.ab2bb466.jpg",
+    "static/media/marigold.dcfa5208.jpg": "/ReactWebsite/static/media/marigold.dcfa5208.jpg",
+    "static/media/mathematics.43e7f66b.jpg": "/ReactWebsite/static/media/mathematics.43e7f66b.jpg",
+    "static/media/questionpaper.dbdc900b.jpg": "/ReactWebsite/static/media/questionpaper.dbdc900b.jpg",
+    "static/media/science.2cc5b74d.jpg": "/ReactWebsite/static/media/science.2cc5b74d.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.a3b31612.js",
+    "static/css/2.f2512455.chunk.css",
+    "static/js/2.706b3a73.chunk.js",
+    "static/css/main.2ccf97d2.chunk.css",
+    "static/js/main.8605c8b8.chunk.js"
+  ]
+}
